@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gztro - Gongzi.Org\n"
+"POT-Creation-Date: 2013-07-01 18:56+0800\n"
+"PO-Revision-Date: 2013-07-01 18:58+0800\n"
+"Last-Translator: 公子 <blog@gongzi.org>\n"
+"Language-Team: 公子府 <blog@gongzi.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;_e;Gztro\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: __\n"
+"X-Poedit-SearchPath-1: _e\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../Anenv/functions.php:898
+msgid "未找到指定的页面( ERROR 404 )"
+msgstr "评论"
+
+#: ../Gzovin/comments-ajax.php:147 ../Gzovin/functions.php:226
+#: ../Gzovin_bak/comments-ajax.php:147 ../Gzovin_bak/functions.php:220
+#: ../Gztro/comments-ajax.php:147 ../Gztro/functions.php:186
+#: ../GzWap/functions.php:62 ../Hitmt/comments-ajax.php:147
+#: ../Hitmt/functions.php:180 ../Simple-I/comments-ajax.php:153
+#: ../Simple-I/functions.php:62 ../Simple-M/comments-ajax.php:147
+#: ../Simple-M/functions.php:205 ../ZuiMedia/comments-ajax.php:147
+#: ../ZuiMedia/functions.php:208
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../Gzovin/comments.php:6 ../Gzovin_bak/comments.php:6
+#: ../Gztro/comments.php:6 ../Hitmt/comments.php:6
+msgid "该文章需要密码，请输入密码查看！"
+msgstr ""
+
+#: ../Gzovin/comments.php:42 ../Gzovin_bak/comments.php:40
+#: ../Gztro/comments.php:40 ../Hitmt/comments.php:40
+#: ../Simple-I/comments.php:35 ../Simple-M/comments.php:35
+#: ../ZuiMedia/comments.php:40
+msgid "Log out of this account"
+msgstr ""
+
+#: ../Gzovin/comments.php:42 ../Gzovin_bak/comments.php:40
+#: ../Gztro/comments.php:40 ../Hitmt/comments.php:40
+#: ../Simple-I/comments.php:35 ../Simple-M/comments.php:35
+#: ../ZuiMedia/comments.php:40
+msgid "退出 &raquo;"
+msgstr ""
+
+#: ../Gzovin/comments.php:46 ../Gzovin/comments.php:48
+#: ../Gzovin_bak/comments.php:44 ../Gzovin_bak/comments.php:46
+#: ../Gztro/comments.php:44 ../Gztro/comments.php:46 ../Hitmt/comments.php:44
+#: ../Hitmt/comments.php:46 ../Simple-I/comments.php:39
+#: ../Simple-I/comments.php:41 ../Simple-M/comments.php:39
+#: ../Simple-M/comments.php:41 ../ZuiMedia/comments.php:44
+#: ../ZuiMedia/comments.php:46
+msgid " "
+msgstr ""
+
+#: ../Gztro/404.php:5
+msgid "404title"
+msgstr "404 - Not Find"
+
+#: ../Gztro/404.php:6
+msgid "404desc"
+msgstr "Sorry, but you are looking for something that is not here!"
+
+#: ../Gztro/archive.php:15 ../Gztro/index.php:27 ../Gztro/single.php:32
+msgid "viewsa"
+msgstr "超过"
+
+#: ../Gztro/archive.php:15 ../Gztro/index.php:27 ../Gztro/single.php:32
+msgid "viewsb"
+msgstr "次围观"
+
+#: ../Gztro/comments.php:20
+msgid "nocomm"
+msgstr "暂停评论。"
+
+#: ../Gztro/comments.php:44
+msgid "u_name"
+msgstr "姓名:"
+
+#: ../Gztro/comments.php:46
+msgid "u_email"
+msgstr "邮箱:"
+
+#: ../Gztro/comments.php:48
+msgid "u_url"
+msgstr "网址:"
+
+#: ../Gztro/comments.php:54
+msgid "gravatar"
+msgstr ""
+"<a href=\"http://www.gongzi.org/gravatar.html\" target=\"_blank\" >没有头像？"
+"点此设置</a>"
+
+#: ../Gztro/footer.php:12
+msgid "baidumap"
+msgstr "<a href=\"/sitemap_baidu.xml\">BaiDu SiteMap</a> | "
+
+#: ../Gztro/footer.php:12
+msgid "Googlemap"
+msgstr "<a href=\"/sitemap.xml\">Google SiteMap</a>"
+
+#: ../Gztro/footer.php:13
+msgid "lic_wp"
+msgstr ""
+" | 基于 <a href=\"http://www.wordpress.org\" target=\"_blank\">WordPress</a> "
+"构建 | "
+
+#: ../Gztro/footer.php:13
+msgid "lic_theme"
+msgstr ""
+"Theme Gztro by <a href=\"http://www.gongzi.org\"  target=\"_blank\">Gongzi</"
+"a>"
+
+#: ../Gztro/header.php:10
+msgid "searchResult"
+msgstr "的搜索结果 - "
+
+#: ../Gztro/header.php:11
+msgid "title404"
+msgstr "404页面"
+
+#: ../Gztro/header.php:12
+msgid "titlelist"
+msgstr "文章列表"
+
+#: ../Gztro/sidebar.php:13
+msgid "sidmostpost"
+msgstr "热门围观"
+
+#: ../Gztro/sidebar.php:25
+msgid "sidnewpost"
+msgstr "最新文章"
+
+#: ../Gztro/sidebar.php:38
+msgid "sidsearch"
+msgstr "站内搜索"
+
+#: ../Gztro/sidebar.php:54
+msgid "sidcomm"
+msgstr "最新评论"
+
+#: ../Gztro/sidebar.php:92
+msgid "sidlinks"
+msgstr "友情链接"
+
+#: ../Gztro/sidebar.php:96
+msgid "sidlinksmore"
+msgstr "查看更多..."
+
+#: ../GzWap/404.php:7 ../GzWap/search.php:13
+msgid "Go Home"
+msgstr ""
+
+#: ../GzWap/404.php:7 ../GzWap/search.php:14
+msgid "Go Back"
+msgstr ""
+
+#: ../GzWap/archive.php:5 ../GzWap/index.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: ../GzWap/archive.php:6 ../GzWap/index.php:6
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../GzWap/comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../GzWap/comments.php:43 ../PhotoBroad/comments.php:60
+msgid "Name"
+msgstr ""
+
+#: ../GzWap/comments.php:46 ../PhotoBroad/comments.php:65
+msgid "Email"
+msgstr ""
+
+#: ../GzWap/comments.php:49 ../PhotoBroad/comments.php:70
+msgid "Website"
+msgstr ""
+
+#: ../GzWap/comments.php:52
+msgid "Type your comment here."
+msgstr ""
+
+#: ../GzWap/comments.php:53
+msgid "Post Comment"
+msgstr ""
+
+#: ../GzWap/comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: ../GzWap/functions.php:50
+msgid "Pingback: "
+msgstr ""
+
+#: ../GzWap/header.php:128 ../GzWap/header.php:130
+#: ../Simple-I/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../GzWap/page-archives.php:9
+msgid "Tag Archives"
+msgstr ""
+
+#: ../GzWap/page-archives.php:13
+msgid "Category Archives"
+msgstr ""
+
+#: ../GzWap/page-archives.php:19
+msgid "Page Archives"
+msgstr ""
+
+#: ../GzWap/page-archives.php:25 ../PhotoBroad/archive.php:18
+msgid "Blog Archives"
+msgstr ""
+
+#: ../GzWap/search.php:8
+msgid "Sorry, but nothing matched your search criteria."
+msgstr ""
+
+#: ../GzWap/search.php:12
+msgid "Try again with some different keywords."
+msgstr ""
+
+#: ../PhotoBroad/404.php:19
+msgid "You Know"
+msgstr ""
+
+#: ../PhotoBroad/archive.php:10 ../PhotoBroad/archive.php:12
+msgid "Archive for "
+msgstr ""
+
+#: ../PhotoBroad/archive.php:14
+msgid "Archive for"
+msgstr ""
+
+#: ../PhotoBroad/archive.php:16
+msgid "All posts by "
+msgstr ""
+
+#: ../PhotoBroad/archive.php:39 ../PhotoBroad/index.php:18
+#: ../PhotoBroad/tag.php:23
+msgid "No Results Found"
+msgstr ""
+
+#: ../PhotoBroad/archive.php:40 ../PhotoBroad/index.php:19
+#: ../PhotoBroad/tag.php:24
+msgid ""
+"The page you requested could not be found. Try refining your search, or use "
+"the navigation above to locate the post."
+msgstr ""
+
+#: ../PhotoBroad/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../PhotoBroad/comments.php:17
+msgid "Comment Reply"
+msgstr ""
+
+#: ../PhotoBroad/comments.php:45
+msgid "You must be"
+msgstr ""
+
+#: ../PhotoBroad/comments.php:45
+msgid "logged in"
+msgstr ""
+
+#: ../PhotoBroad/comments.php:45
+msgid "to post a comment."
+msgstr ""
+
+#: ../PhotoBroad/comments.php:54
+msgid "Logged in as"
+msgstr ""
+
+#: ../PhotoBroad/comments.php:54
+msgid "Log out &raquo;"
+msgstr ""
+
+#: ../PhotoBroad/comments.php:70
+msgid "http://"
+msgstr ""
+
+#: ../PhotoBroad/comments.php:82
+msgid "Submit"
+msgstr ""
+
+#: ../PhotoBroad/content-audio.php:63 ../PhotoBroad/content-image.php:39
+#: ../PhotoBroad/content-standard.php:45 ../PhotoBroad/content-video.php:63
+#: ../PhotoBroad/page-archives.php:28 ../PhotoBroad/page.php:16
+#: ../PhotoBroad/single-audio.php:13 ../PhotoBroad/single-image.php:13
+#: ../PhotoBroad/single-standard.php:13 ../PhotoBroad/single-video.php:13
+msgid "Hot"
+msgstr ""
+
+#: ../PhotoBroad/content-audio.php:67 ../PhotoBroad/content-image.php:43
+#: ../PhotoBroad/content-standard.php:49 ../PhotoBroad/content-video.php:67
+msgid "Read More"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:411
+msgid "Title:"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:415
+msgid "Sort by:"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:417
+msgid "New Posts"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:418
+msgid "Related Posts"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:468
+msgid "Write to the author"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:469
+msgid "Author Home"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:475 ../PhotoBroad/functions.php:481
+msgid "General Settings"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:476 ../PhotoBroad/functions.php:681
+msgid "Styling Options"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:482
+msgid ""
+"Control and configure the general setup of your theme. Upload your preferred "
+"logo, setup your text length and insert your analytics tracking code."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:484
+msgid "Plain Text Logo"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:485
+msgid ""
+"Check this box to enable a plain text logo rather than upload an image. Will "
+"use your site name."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:497
+msgid "Custom Logo Upload"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:498
+msgid "Upload a logo for your theme."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:515 ../PhotoBroad/functions.php:595
+msgid "Upload Image"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:516 ../PhotoBroad/functions.php:596
+msgid "Remove"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:577
+msgid "Custom Favicon Upload"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:578
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website's "
+"favicon."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:657
+msgid "Text length"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:658
+msgid "Set the plain text of the article text length."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:663
+msgid "Image text length"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:664
+msgid "Set contains a picture text article text length."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:669
+msgid "Tracking Code"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:670
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. It will be "
+"inserted before the closing body tag of your theme."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:682
+msgid ""
+"Configure the visual appearance of you theme by selecting a stylesheet if "
+"applicable, choosing your overall layout and inserting any custom CSS "
+"necessary."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:684
+msgid "Main Layout"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:685
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:712
+msgid "Custom CSS"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:713
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: ../PhotoBroad/functions.php:730
+msgid "Reset Options"
+msgstr ""
+
+#: ../PhotoBroad/functions.php:731
+msgid "Save All Changes"
+msgstr ""
+
+#: ../PhotoBroad/page-archives.php:51
+msgid "Last 30 Posts"
+msgstr ""
+
+#: ../PhotoBroad/page-archives.php:60
+msgid "Archives by Month:"
+msgstr ""
+
+#: ../PhotoBroad/page-archives.php:65
+msgid "Archives by Subject:"
+msgstr ""
+
+#: ../PhotoBroad/searchform.php:2
+msgid "search"
+msgstr ""
+
+#: ../PhotoBroad/single-audio.php:50
+msgid "Singer"
+msgstr ""
+
+#: ../PhotoBroad/single-audio.php:54 ../PhotoBroad/single-audio.php:66
+msgid "Unknown"
+msgstr ""
+
+#: ../PhotoBroad/single-audio.php:62
+msgid "Music Album"
+msgstr ""
+
+#: ../Simple-I/comments.php:6 ../Simple-M/comments.php:6
+#: ../ZuiMedia/comments.php:6
+msgid "这篇文章需要密码，请输入密码访问"
+msgstr ""
+
+#~ msgid "lic_gzurl"
+#~ msgstr "http://www.gongzi.org"
+
+#~ msgid "lic_gz"
+#~ msgstr "Gongzi"
+
+#~ msgid "Themelicense"
+#~ msgstr ""
+#~ "Theme Gztro by <a href=\"http://www.gongzi.org\" title=\"Gongzi.Org"
+#~ "\">Gongzi</a>"
+
+#~ msgid "Theme by %1$s & %2$s"
+#~ msgstr "Theme Gztro by Gongzi"
+
+#~ msgid "BaiDuSiteMap"
+#~ msgstr "百度地图"
